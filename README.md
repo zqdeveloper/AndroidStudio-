@@ -1,4 +1,4 @@
 # AndroidStudio-
 介绍Android常用技巧
 
-![AndroidStudio](Android\ Studio.svg)
+![AndroidStudio]("https://github.com/1052105484/AndroidStudio-/blob/master/Android%20Studio.svg")
